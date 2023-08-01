@@ -19,7 +19,7 @@
                 <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="add_post.php">Add Post</a></li>
                 <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href=""><?= $_SESSION['username'] ?></a>
                 </li>
-                <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="" <?= $_SESSION['user_id']= -1 ; ?>>Log Out</a></li>
+                <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="">Log Out</a></li>
                 <?php } ?>
 
             </ul>
