@@ -64,4 +64,4 @@
 
 5. Add the project to your workspace.
 
-6. Run ```The project``` Class.
+6. Run ```The project``` .
