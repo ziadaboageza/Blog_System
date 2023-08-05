@@ -1,4 +1,4 @@
-![image](https://github.com/ziadaboageza/Blog_System/assets/117841565/ea06e20c-05ec-4917-9b60-8f07ba4a4157)# Blog_System
+# Blog_System
 
 ### Simple Blog System project its  web application that allows users to create and manage their own blogs. 
 
